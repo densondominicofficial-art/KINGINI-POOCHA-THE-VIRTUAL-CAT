@@ -54,16 +54,14 @@ For Software:
 
 
 ### Project Demo
-# Video
+https://github.com/densondominicofficial-art/KINGINI-POOCHA-THE-VIRTUAL-CAT/blob/main/Screen%20Recording%202025-08-09%20055020.mp4
 
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Denson Dominic- Frontend
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
