@@ -44,12 +44,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-!![alt text](<Screenshot 2025-08-09 054651.png>)
 
-
-![alt text](<Screenshot 2025-08-09 054651-1.png>)
-
-![alt text](<Screenshot 2025-08-09 054651-2.png>)
+<img width="987" height="671" alt="Screenshot 2025-08-09 054651" src="https://github.com/user-attachments/assets/13b68051-6eca-4e7c-9b03-f958380d111d" />
 
 
 
